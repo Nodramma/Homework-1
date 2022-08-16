@@ -28,7 +28,7 @@ Unit 1 Homework Assignment: FinTech Case Study
 * This is not always the case with competitors such as Samsung Pay and Apple Pay that are restricted to certain platforms and operating systems. PayPal wide availability has been a major influence in making the company the worlds largest payment platform. [3]
 * Shoppers who use PayPal have already created a wallet with all of their payment cards. What's more, banks are increasingly encouraging their customers to add their credit cards to PayPal, strengthening the competitive advantage PayPal's wallet provides.
 
-![Market share of payment processing software technologies worldwide as of September 2021] (https://github.com/Nodramma/Homework-1/blob/main/schem2.png)
+![Market share of payment processing software technologies worldwide as of September 2021] (schem2.png)
 
 ## Landscape:
 
